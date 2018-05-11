@@ -25,7 +25,7 @@ The app is built with reacr native and it's using javascript to turn your code i
 And it's using Realm to store your data. 
 Why realm? Beacuse it's a fast no-sql easy to use and setup database. 
 
-##Setting up development enviromemt
+## Setting up development enviromemt
 
 First of all you need android sdk, nodejs and android studio installed
 
